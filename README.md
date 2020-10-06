@@ -73,7 +73,7 @@ Since we aren't using m10-m15 consider those Don't Cares for the standard proble
 | 11 | X  | X  | X  | X  |
 | 10 | 1  | 1  | X  | X  |
 
-Simplified: y + w ++ w'xz + w'x'y'z' 
+Simplified: y + w + xz + w'x'z 
 
 #### Map for B
 
@@ -95,7 +95,7 @@ Simplified: w + w'x' + y'z' + yz
 | 11 | X  | X  | X  | X  |
 | 10 | 1  | 1  | X  | X  |
 
-Simplified: w + y' + yz + w'x
+Simplified: y' + yz + w'x
 
 #### Map for D
 
@@ -106,7 +106,7 @@ Simplified: w + y' + yz + w'x
 | 11 | X  | X  | X  | X  |
 | 10 | 1  | 1  | X  | X  |
 
-Simplified: w + yz' + w'x'y + y'z + w'x'y'z'
+Simplified: w + yz' + w'x'y + y'z + w'x'z'
 
 #### Map for E
 
@@ -117,7 +117,7 @@ Simplified: w + yz' + w'x'y + y'z + w'x'y'z'
 | 11 | X  | X  | X  | X  |
 | 10 | 1  |    | X  | X  |
 
-Simplified: yz' + wy'z' + w'x'y'z'
+Simplified: yz' + x'y'z'
 
 #### Map for F
 
@@ -128,7 +128,7 @@ Simplified: yz' + wy'z' + w'x'y'z'
 | 11 | X  | X  | X  | X  |
 | 10 | 1  | 1  | X  | X  |
 
-Simplified: w + y'z' + w'xy' + xyz'
+Simplified: y'z' + w'xy' + xyz' +
 
 #### Map for G
 
