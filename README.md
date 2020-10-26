@@ -13,11 +13,11 @@ Each 4-bit group shall use a seven-segment display to representits value as a de
 
 ## TO DO
 
-1-bit adder - FINISHED
-4-bit adder - TO-DO
-"Converter" - TO-DO
-"Front-End" - FINISHED
-Cleaning - TO-DO
+ - 1-bit adder - FINISHED
+ - 4-bit adder - TO-DO
+ - "Converter" - TO-DO
+ - "Front-End" - FINISHED
+ - Cleaning - TO-DO
 
 ### 4-bit adder
 
