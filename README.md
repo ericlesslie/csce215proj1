@@ -1,17 +1,41 @@
-# CSCE 215 Project 1
+# CSCE215 Projects
 
-Hey! This is the github repo I made to store the files for the project we're doing that's due Thursday.
+This is the github repo for the projects in CSCE215.
+
+# Project 2
 
 ## The Problem
 
-![alt text](https://www.electronics-tutorials.ws/wp-content/uploads/2013/10/segment4.gif?fit=277%2C236 "Logo Title Text 1")
+Your second Logisim project tasks you with creating a two-digit decimal adder with a seven-segment displayfor each of the operands and two for the sum.
+You must provide eight 1-bit inputs grouped into two 4-bit operands.
+Each 4-bit group must accept values in [0000, 1001], representing decimals in [0, 9].
+Each 4-bit group shall use a seven-segment display to representits value as a decimal integer. The sum of the two 4-bit input should be displayed in a pair of seven-segment display showing sums in [00, 18].
 
 ## TO DO
 
-1. Finish Truth Table - Done
-2. Overall Structure - WIP
-3. Better Communication - WIP - Texts? Email? No other commits?
-4. K-Maps - Done
+1-bit adder - FINISHED
+4-bit adder - TO-DO
+"Converter" - TO-DO
+"Front-End" - FINISHED
+Cleaning - TO-DO
+
+### 4-bit adder
+
+Using the 1-bit adder add the two 4-bit numbers and output a 4-bit number
+
+### Coverter
+
+Using the 4-bit number from the adder, convert it to the output for the two displays.
+
+NOTE: Make sure output is only [0, 18]
+
+### Cleaning
+
+Making sure that the project code is clean and easily legible for a grader.
+
+# Project 1
+
+
 
 ### Truth Table
 
